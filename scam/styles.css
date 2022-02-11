@@ -1,0 +1,13 @@
+* {
+    background-color: #27187E;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 10vw;
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    color: #FF8600;
+}
